@@ -16,3 +16,6 @@ https://notify-bot.line.me/ja/
 1. 事前準備で使用したtokenの値を[code/config.ini]ファイルの各項目に記載する。また1週間のデータをまとめて取得したい曜日を設定する。
 1. python LineMain.pyを実行、Windowsなら[Oura_get.bat]を実行することによってLINEに本日のスコアが送信される。
 1. タスクスケジューラに起動することによって毎日決まった時刻にLINEを送信する事ができる。 
+
+## 使用画面
+![](https://raw.githubusercontent.com/wiki/Akiyoshi999/Oura_data_get/images/oura_get_photo.PNG)
